@@ -1,0 +1,35 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="72453ca0-328a-11df-855a-b8a03c50a862" system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+    <alternateIdentifier system="GBIF_PORTAL">10971</alternateIdentifier>
+  <title>Mammal Collection</title>
+<creator>
+</creator>
+<metadataProvider>
+</metadataProvider>
+<language>en</language>
+<abstract>
+  <para>The Mammal Collection was established above 50 years ago. At the moment the collection has about 190 000 of mammal specimens. Specimens in our collection are kept as dry or wet material (kept in alcohol). Dry material includes skulls, skeletons, skins, stuffed mammals and some others materials. In our collection we have mainly mammals from Poland, especially Białowieża Forest, and Biebrza valley, but also many specimens from world fauna.</para>
+</abstract>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://tapir.gbif.pl/tapir/tapir.php/pan-zbs-mammals</url>
+    </online>
+  </distribution>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <dateStamp>2013-05-08T04:48:41.000+02:00</dateStamp>
+        <citation>Mammal Research Institute, Polish Academy of Sciences: Mammal Collection</citation>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

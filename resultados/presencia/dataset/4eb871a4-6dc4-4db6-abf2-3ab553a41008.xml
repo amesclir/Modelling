@@ -1,0 +1,171 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="4eb871a4-6dc4-4db6-abf2-3ab553a41008" system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+    <alternateIdentifier system="GBIF_PORTAL">14141</alternateIdentifier>
+  <title>Field Study Group of the Dutch Mammal Society (NL) - 2005 - Mammal Survey Pol&apos;ana Biosphere reserve, Slovakia</title>
+<creator>
+    <individualName>
+        <givenName>Jeroen</givenName>
+      <surName>Willemsen</surName>
+    </individualName>
+    <organizationName>Field Study Group of the Dutch Mammal Society</organizationName>
+    <positionName>Staff member of the Field Study Group</positionName>
+    <address>
+        <deliveryPoint>P.O. Box 6531</deliveryPoint>
+        <city>Nijmegen</city>
+        <postalCode>NL-6503 GA</postalCode>
+        <country>NETHERLANDS</country>
+    </address>
+    <electronicMailAddress>veldwerkgroep@zoogdiervereniging.nl</electronicMailAddress>
+</creator>
+<metadataProvider>
+    <individualName>
+        <givenName>Jeroen</givenName>
+      <surName>Willemsen</surName>
+    </individualName>
+    <organizationName>Field Study Group of the Dutch Mammal Society</organizationName>
+    <positionName>Staff member of the Field Study Group</positionName>
+    <address>
+        <deliveryPoint>P.O. Box 6531</deliveryPoint>
+        <city>Nijmegen</city>
+        <postalCode>NL-6503 GA</postalCode>
+        <country>NETHERLANDS</country>
+    </address>
+    <electronicMailAddress>veldwerkgroep@zoogdiervereniging.nl</electronicMailAddress>
+</metadataProvider>
+<associatedParty>
+    <individualName>
+        <givenName>Cees H.J.</givenName>
+      <surName>Hof</surName>
+    </individualName>
+    <organizationName>NLBIF</organizationName>
+    <positionName>Node Manager</positionName>
+    <address>
+        <deliveryPoint>P.O. Box 93102</deliveryPoint>
+        <city>Amsterdam</city>
+        <postalCode>NL-1090 BC</postalCode>
+        <country>NETHERLANDS</country>
+    </address>
+    <phone>+31 20 5255496</phone>
+    <electronicMailAddress>c.h.j.hof@uva.nl</electronicMailAddress>
+    <role>PUBLISHER</role>
+</associatedParty>
+<pubDate>
+        2013-07-08
+</pubDate>
+<language>ENGLISH</language>
+<abstract>
+  <para>This dataset contains the results of the yearly summer camp of the Field Study Group (Dutch Mammal Society), organized from July 27th to August 4th 2005 in the Pol&apos;ana Biosphere reserve in Slovakia. The mammals of Pol&apos;ana and its surroundings were the main object of study, using various methods. 
+Live traps were used to identify small mammals like shrews and mice. Data on bats was gathered with bat detectors and mistnets. Bat parasites were collected from all bats captured and identified afterwards. Other mammal species were observed visually. While recording mammals, attention was given to insects (butterflies, dragonflies and grasshoppers), amphibians, reptiles and birds as well. Locations were recorded with GPS.</para>
+</abstract>
+  <keywordSet>
+      <keyword>Shrews</keyword>
+      <keyword>Bats</keyword>
+      <keyword>Live trap</keyword>
+      <keyword>Mammals</keyword>
+      <keyword>Mist net</keyword>
+      <keyword>Detector</keyword>
+      <keyword>Mice</keyword>
+      <keyword>Field Study Group</keyword>
+      <keywordThesaurus>n/a</keywordThesaurus>
+  </keywordSet>
+  <intellectualRights>
+    <para>Terms of use ZV-VWG data: All rights on this data file belong to the Field Study Group of the Dutch Mammal Society. Please contact the Field Study Group (veldwerkgroep@zoogdiervereniging.nl) before secondary usage of data in electronic or printed form.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://www.zoogdiervereniging.nl/sites/default/files/imce/nieuwesite/Werkgroepen/Veldwerkgroep/downloads/2005SLOPolana.pdf</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Pol’ana Biosphere reserve, Slovakia</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>16.98</westBoundingCoordinate>
+          <eastBoundingCoordinate>23.01</eastBoundingCoordinate>
+          <northBoundingCoordinate>49.57</northBoundingCoordinate>
+          <southBoundingCoordinate>47.61</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+          <rangeOfDates>
+            <beginDate>
+              <calendarDate>        2005-07-27
+</calendarDate>
+            </beginDate>
+            <endDate>
+              <calendarDate>        2005-08-06
+</calendarDate>
+            </endDate>
+          </rangeOfDates>
+      </temporalCoverage>
+        <taxonomicCoverage>
+            <generalTaxonomicCoverage>Mammals, Bats, Shrews, Mice</generalTaxonomicCoverage>
+            <taxonomicClassification>
+                <taxonRankName>CLASS</taxonRankName>
+              <taxonRankValue>Mammalia</taxonRankValue>
+                <commonName>mammals</commonName>
+            </taxonomicClassification>
+        </taxonomicCoverage>
+  </coverage>
+  <contact>
+    <individualName>
+        <givenName>Jeroen</givenName>
+      <surName>Willemsen</surName>
+    </individualName>
+    <organizationName>Field Study Group of the Dutch Mammal Society</organizationName>
+    <positionName>Staff member of the Field Study Group</positionName>
+    <address>
+        <deliveryPoint>P.O. Box 6531</deliveryPoint>
+        <city>Nijmegen</city>
+        <postalCode>NL-6503 GA</postalCode>
+        <country>NETHERLANDS</country>
+    </address>
+    <electronicMailAddress>veldwerkgroep@zoogdiervereniging.nl</electronicMailAddress>
+  </contact>
+  <methods>
+      <methodStep>
+        <description>
+          <para>n/a</para>
+        </description>
+      </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>n/a</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Live traps were used to identify small mammals like shrews and mice. Data on bats was gathered with bat detectors and mistnets. Bat parasites were collected from all bats captured and identified afterwards. Other mammal species were observed visually. While recording mammals, attention was given to insects (butterflies, dragonflies and grasshoppers), amphibians, reptiles and birds as well. Locations were recorded with GPS.</para>
+        </samplingDescription>
+      </sampling>
+  </methods>
+
+  <project>
+    <title>Survey Pol’ana Biosphere reserve, Slovakia, 2005</title>
+    <personnel>
+    <individualName>
+      <surName>n/a</surName>
+    </individualName>
+    </personnel>
+    <funding>
+      <para></para>
+    </funding>
+  </project>
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <dateStamp>2013-10-24T01:22:47.087+02:00</dateStamp>
+        <citation>Field Study Group of the Dutch Mammal Society: Field Study Group of the Dutch Mammal Society (NL) - 2005 - Mammal Survey Pol&apos;ana Biosphere reserve, Slovakia</citation>
+        <resourceLogoUrl>http://ipt.nlbif.nl/ipt/logo.do?r=zv-vwg-2005-slovakia</resourceLogoUrl>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

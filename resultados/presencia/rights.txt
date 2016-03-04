@@ -1,0 +1,361 @@
+
+
+Dataset: Occurrence of mammalia relicts at site Istalloskö
+Rights as supplied: Not supplied
+
+Dataset: National System of Protected Areas in Poland - Animals
+Rights as supplied: Not supplied
+
+Dataset: Paleobiology Database
+Rights as supplied: Not supplied
+
+Dataset: iNaturalist research-grade observations
+Rights as supplied: Owner grants GBIF a worldwide, non-exclusive right to: (i) use,
+        reproduce, perform, display, archive, transmit and distribute the
+        Content (including any trademarks, tradenames and logos in the
+        Content) in electronic form in connection with the Site, (ii) allow
+        users of the Site to use, search, copy, download and transmit the
+        Content, and (iii) modify and reformat the Content, but solely to the
+        extent necessary and for the purposes of: (a) conforming to the format
+        and "look and feel" of the Site, and (b) creating snippets, headlines
+        or teasers consisting of selected lines or sections from the Content
+        to be displayed on the Site (or displayed on other websites owned by
+        GBIF for the purposes of directing traffic to the Site).
+
+Dataset: Cumbria Biodiversity Data Centre - Cumbria Biodiversity Data Centre. Vertebrate Observation Records, other than Birds. Pre-2010 for Cumbria 
+Rights as supplied: Not supplied
+
+Dataset: Macaulay Library Audio and Video Collection
+Rights as supplied: http://macaulaylibrary.org/terms-of-use
+
+Dataset: Occurrence of mammalia relicts at site Kugelsteinhöhle II
+Rights as supplied: Not supplied
+
+Dataset: UWYMV Mammal Collection (Arctos)
+Rights as supplied: The data and media available through Arctos are the property of the originating institution, with all rights reserved. These records are intended for use in education and research and may not be repackaged, redistributed, or sold in any form without prior written consent from the collection(s) holding such data. Users wishing to include Arctos data or media in publications, reports, websites, or other means of dissemination must acknowledge the provenance of the original data, cite the institutional catalog number(s), and notify the appropriate curator. The date that information was accessed should be cited when downloaded data are used in published analyses. These are secondary data and their accuracy is not guaranteed. Citation of Arctos is no substitute for examination of specimens. The data providers are not responsible for loss or damages due to use of these data. http://arctosdb.org/home/data/
+
+Dataset: SBMNH Vertebrate Zoology
+Rights as supplied: SBMNH data records may be used by individual researchers or research groups, but they may not be repackaged, resold, or redistributed in any form without the express written consent of a curatorial staff member of the SBMNH. If any of these records are used in an analysis or report, the provenance of the original data must be acknowledged and the SBMNH notified. The Santa Barbara Museum of Natural History and its staff are not responsible for damages, injury or loss due to the use of these data.
+
+Dataset: Occurrence of mammalia relicts at site Jägerhaus-Höhle
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Burgtonna
+Rights as supplied: Not supplied
+
+Dataset: Mammal collection, Natural History Museum, University of Oslo
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Pestera Magura
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Hofstade
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Pavlov
+Rights as supplied: Not supplied
+
+Dataset: NYSM Mammals
+Rights as supplied: NYSM data records may be used by individual researchers or research
+groups, but they may not be repackaged, resold, or redistributed in any
+form without the express written consent of a curatorial staff member of
+the NYSM. If any of these records are used in an analysis or report, the
+provenance of the original data must be acknowledged and the NYSM
+notified. The NYSM and its staff are not responsible for damages, injury or loss due to the use of these data.
+
+Dataset: Occurrence of mammalia relicts at site Zemst Bos van A
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Ceremosnica
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Jaskinia Niedwiedzia
+Rights as supplied: Not supplied
+
+Dataset: MSB Mammal Collection (Arctos)
+Rights as supplied: The data and media available through Arctos are the property of the originating institution, with all rights reserved. These records are intended for use in education and research and may not be repackaged, redistributed, or sold in any form without prior written consent from the collection(s) holding such data. Users wishing to include Arctos data or media in publications, reports, websites, or other means of dissemination must acknowledge the provenance of the original data, cite the institutional catalog number(s), and notify the appropriate curator. The date that information was accessed should be cited when downloaded data are used in published analyses. These are secondary data and their accuracy is not guaranteed. Citation of Arctos is no substitute for examination of specimens. The data providers are not responsible for loss or damages due to use of these data. http://arctosdb.org/home/data/ </br></br>
+
+Dataset: Occurrence of mammalia relicts at site Joint Mitnor Cave
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Oelknitz
+Rights as supplied: Not supplied
+
+Dataset: Mammals Specimens
+Rights as supplied: SNOMNH data records may be used by individual researchers or research groups, but they may not be repackaged, resold, or redistributed in any form without the express written consent of a curatorial staff member of the Sam Noble Oklahoma Museum of Natural History. If any of these records are used in an analysis or report, the provenance of the original data must be acknowledged and the Sam Noble Oklahoma Museum of Natural History notified. SNOMNH and its staff are not responsible for damages, injury or loss due to the use of these data.
+
+Dataset: Occurrence of mammalia relicts at site Kesslerloch
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Crayford
+Rights as supplied: Not supplied
+
+Dataset: CAS Mammalogy (MAM)
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Raj Cave
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Erdhöhle
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Vraona Cave
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Goyet Cave 3
+Rights as supplied: Not supplied
+
+Dataset: Herdengelhoehle taxa and datings
+Rights as supplied: Not supplied
+
+Dataset: Ministerio de Medio Ambiente, y Medio Rural y Marino. Dirección General de Medio Natural y Política Forestal. Inventario Nacional de Biodiversidad 2007, Mamíferos
+Rights as supplied: Público
+
+Dataset: Peabody Mammalogy DiGIR Service
+Rights as supplied: Peabody Museum data records may be used by individual researchers or research groups, but they may not be repackaged, resold, or redistributed in any form without the express written consent of a curatorial staff member of the museum. If any of these records are used in an analysis or report, the provenance of the original data must be acknowledged and the Peabody notified. Yale University and the Peabody Museum of Natural History and its staff are not responsible for damages, injury or loss due to the use of these data.
+
+Dataset: Occurrence of mammalia relicts at site Sandalja II
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Poroslyuk
+Rights as supplied: Not supplied
+
+Dataset: Field Study Group of the Dutch Mammal Society (NL) - 2010 - Mammal Survey Patvinsuo National Park, northern Karelia, Finland
+Rights as supplied: Terms of use ZV-VWG data: All rights on this data file belong to the Field Study Group of the Dutch Mammal Society. Please contact the Field Study Group (veldwerkgroep@zoogdiervereniging.nl) before secondary usage of data in electronic or printed form.
+
+Dataset: Occurrence of mammalia relicts at site Falkensteinhöhle
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Teufelsbrücke
+Rights as supplied: Not supplied
+
+Dataset: Vertebrats d'Andorra
+Rights as supplied: SIBA (Sistema de Información de la Biodiversidad de Andorra) es una iniciativa del Centre de Biodiversitat de l'Institut d'Estudis Andorrans [2004]'
+
+Dataset: Cowan Tetrapod Collection - Mammals
+Rights as supplied: University of British Columbia Beaty Biodiversity Museum data records may be used by individual researchers or research groups, but they may not be repackaged, resold, or redistributed in any form without the express written consent of the University of British Columbia Beaty Biodiversity Museum. If any of these records are used in an analysis or report, the provenance of the original data must be acknowledged and the University of British Columbia Beaty Biodiversity Museum notified. The University of British Columbia Beaty Biodiversity Museum and its staff are not responsible for damages, injury or loss due to the use of these data.
+
+Dataset: Field Museum of Natural History (Zoology) Mammal Collection
+Rights as supplied: Copyright © 2012 The Field Museum of Natural History
+Full details may be found at http://fieldmuseum.org/about/copyright-information
+
+Dataset: Mammals housed at MHNG, Geneva
+Rights as supplied: The use of the data is allowed only for non-profit scientific use and for non-profit nature conservation purpose.
+
+Dataset: Estonian Nature Observations Database, Estonian Nature Observations Database
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Velika Pecina
+Rights as supplied: Not supplied
+
+Dataset: UAM Mammal Observations (Arctos)
+Rights as supplied: The data and media available through Arctos are the property of the originating institution, with all rights reserved. These records are intended for use in education and research and may not be repackaged, redistributed, or sold in any form without prior written consent from the collection(s) holding such data. Users wishing to include Arctos data or media in publications, reports, websites, or other means of dissemination must acknowledge the provenance of the original data, cite the institutional catalog number(s), and notify the appropriate curator. The date that information was accessed should be cited when downloaded data are used in published analyses. These are secondary data and their accuracy is not guaranteed. Citation of Arctos is no substitute for examination of specimens. The data providers are not responsible for loss or damages due to use of these data. http://arctosdb.org/home/data/ </br></br>
+
+Dataset: Occurrence of mammalia relicts at site Dendermonde
+Rights as supplied: Not supplied
+
+Dataset: South Australian Museum Australia provider for OZCAM
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Veternica
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Pecurski Karnen
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Tornewton Cave
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Vogelherd/Lonetal
+Rights as supplied: Not supplied
+
+Dataset: RBINS collections
+Rights as supplied: All data given access here are the sole property of the Royal Belgian Institute for Natural Sciences (RBINS) and are protected by the laws of copyright.   The reuse of data, for any purpose whatsoever, is subject to prior authorization given by the Royal Belgian Institute for Natural Sciences (RBINS).   For more informations, comments or details on the above lines, please contact the Royal Belgian Institute for Natural Sciences (RBINS).
+
+Dataset: Field Study Group of the Dutch Mammal Society (NL) - 2005 - Mammal Survey Pol'ana Biosphere reserve, Slovakia
+Rights as supplied: Terms of use ZV-VWG data: All rights on this data file belong to the Field Study Group of the Dutch Mammal Society. Please contact the Field Study Group (veldwerkgroep@zoogdiervereniging.nl) before secondary usage of data in electronic or printed form.
+
+Dataset: Occurrence of mammalia relicts at site Kalman Lambrecht Cave
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Bivak Cave
+Rights as supplied: Not supplied
+
+Dataset: Glasgow Museums BRC - Mammal records for Clyde Faunal Area, 1850 to 2007
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Risovaca
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Grotte Scladina
+Rights as supplied: Not supplied
+
+Dataset: UAM Mammal Collection (Arctos)
+Rights as supplied: The data and media available through Arctos are the property of the originating institution, with all rights reserved. These records are intended for use in education and research and may not be repackaged, redistributed, or sold in any form without prior written consent from the collection(s) holding such data. Users wishing to include Arctos data or media in publications, reports, websites, or other means of dissemination must acknowledge the provenance of the original data, cite the institutional catalog number(s), and notify the appropriate curator. The date that information was accessed should be cited when downloaded data are used in published analyses. These are secondary data and their accuracy is not guaranteed. Citation of Arctos is no substitute for examination of specimens. The data providers are not responsible for loss or damages due to use of these data. http://arctosdb.org/home/data/ </br></br>
+
+Dataset: Occurrence of mammalia relicts at site Bocksteinschmiede
+Rights as supplied: Not supplied
+
+Dataset: Norwegian Species Observation Service
+Rights as supplied: Not supplied
+
+Dataset: PSM Vertebrates Collection
+Rights as supplied: PSM data records may be used by individual researchers or research groups, but they may not be repackaged, resold, or redistributed in any form without the express written consent of a curatorial staff member of the PSM. If any of these records are used in an analysis or report, the provenance of the original data must be acknowledged and the PSM notified. The James R. Slater Museum of Natural History or its staff is not responsible for damages, injury or loss due to the use of these data.
+
+Dataset: Occurrence of mammalia relicts at site Oberkassel bei Bonn
+Rights as supplied: Not supplied
+
+Dataset: Israel Nature and Parks Authority
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Roter Berg bei Saalfeld
+Rights as supplied: Not supplied
+
+Dataset: Ibaraki Nature Museum, Mammals collection
+Rights as supplied: Not supplied
+
+Dataset: Museu de Ciències Naturals de Barcelona: MCNB-Cord
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Barrington
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Fuchsenloch
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Pestera la Adam
+Rights as supplied: Not supplied
+
+Dataset: Mammal Specimens
+Rights as supplied: UWBM data records may be used by individual researchers or research groups, but they may not be repackaged, resold, or redistributed in any form without the express written consent of a curatorial staff member of the UWBM. If any of these records are used in an analysis or report, the provenance of the original data must be acknowledged and the UWBM notified. The Burke Museum and its staff are not responsible for damages, injury or loss due to the use of these data.
+
+Dataset: Occurrence of mammalia relicts at site Pestera Cioarei
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Fohlenhaus-Höhlen
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Geißenklösterle
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Schweizerbild
+Rights as supplied: Not supplied
+
+Dataset: CNMA/Colección Nacional de mamíferos
+Rights as supplied: Not supplied
+
+Dataset: MVZ Mammal Collection (Arctos)
+Rights as supplied: The data and media available through Arctos are the property of the originating institution, with all rights reserved. These records are intended for use in education and research and may not be repackaged, redistributed, or sold in any form without prior written consent from the collection(s) holding such data. Users wishing to include Arctos data or media in publications, reports, websites, or other means of dissemination must acknowledge the provenance of the original data, cite the institutional catalog number(s), and notify the appropriate curator. The date that information was accessed should be cited when downloaded data are used in published analyses. These are secondary data and their accuracy is not guaranteed. Citation of Arctos is no substitute for examination of specimens. The data providers are not responsible for loss or damages due to use of these data. http://arctosdb.org/home/data/ </br></br>
+For Terms of Use specific to the Museum of Vertebrate Zoology, see http://mvz.berkeley.edu/PDFs/MVZ_terms_of_use.pdf
+
+Dataset: DMNS Mammal Collection (Arctos)
+Rights as supplied: The data and media available through Arctos are the property of the originating institution, with all rights reserved. These records are intended for use in education and research and may not be repackaged, redistributed, or sold in any form without prior written consent from the collection(s) holding such data. Users wishing to include Arctos data or media in publications, reports, websites, or other means of dissemination must acknowledge the provenance of the original data, cite the institutional catalog number(s), and notify the appropriate curator. The date that information was accessed should be cited when downloaded data are used in published analyses. These are secondary data and their accuracy is not guaranteed. Citation of Arctos is no substitute for examination of specimens. The data providers are not responsible for loss or damages due to use of these data. http://arctosdb.org/home/data/ </br></br>
+For Terms of Use specific to the Denver Museum of Nature & Science, see http://www.dmns.org/conditions-of-use
+
+Dataset: Occurrence of mammalia relicts at site Kirkdale Cave
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Pestera Livadita
+Rights as supplied: Not supplied
+
+Dataset: LACM Vertebrate Collection
+Rights as supplied: http://www.nhm.org/site/about-our-museums/terms-of-use
+
+Dataset: UMMZ Mammals Collection
+Rights as supplied: UMMZ data records may be used by individual researchers or research groups, but they may not be repackaged, resold, or redistributed in any form without the express written consent of a curator or collection manager of the Mammal Division of the University of Michigan Museum of Zoology. If any of these records are used in an analysis or report, the provenance of the original data must be acknowledged and the UMMZ notified. The University of Michigan and its staff are not responsible for damages, injury or loss due to the use of these data.
+
+Dataset: NRM-Mammals
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Pestera Cioarei
+Rights as supplied: Not supplied
+
+Dataset: Mammal Collection
+Rights as supplied: Not supplied
+
+Dataset: UAM Earth Sciences Collection (Arctos)
+Rights as supplied: The data and media available through Arctos are the property of the originating institution, with all rights reserved. These records are intended for use in education and research and may not be repackaged, redistributed, or sold in any form without prior written consent from the collection(s) holding such data. Users wishing to include Arctos data or media in publications, reports, websites, or other means of dissemination must acknowledge the provenance of the original data, cite the institutional catalog number(s), and notify the appropriate curator. The date that information was accessed should be cited when downloaded data are used in published analyses. These are secondary data and their accuracy is not guaranteed. Citation of Arctos is no substitute for examination of specimens. The data providers are not responsible for loss or damages due to use of these data. http://arctosdb.org/home/data/
+
+Dataset: Occurrence of mammalia relicts at site Nietoperzowa
+Rights as supplied: Not supplied
+
+Dataset: Mammalogy Collection - Royal Ontario Museum
+Rights as supplied: This work is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0) License http://creativecommons.org/licenses/by-nc/3.0/
+
+Dataset: Occurrence of mammalia relicts at site Villa Seckendorff
+Rights as supplied: Not supplied
+
+Dataset: Gunma Museum of Natural History, Mammal Specimen
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Gamssulzenhöhle
+Rights as supplied: Not supplied
+
+Dataset: Norwegian Biodiversity Information Centre - Other datasets
+Rights as supplied: Not supplied
+
+Dataset: NMNH occurrence DwC-A
+Rights as supplied: NMNH public data constitute a compilation of data, all rights to which, including copyright, are owned by the Smithsonian Institution. Except as otherwise expressly stated at http://www.mnh.si.edu/rc/db/2data_access_policy.html, the information, records, or images in these databases may not be reproduced, distributed, or publicly displayed, in whole or in part, without the express written permission of the National Museum of Natural History, Smithsonian Institution.
+
+Dataset: Occurrence of mammalia relicts at site Sveduv stul
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Kniegrotte
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Grotte du Bichon
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Pestera lui Climente I
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Krapina
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Predmosti
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Pestera Hotilor
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Rislisberghöhle
+Rights as supplied: Not supplied
+
+Dataset: MfN - Fossil vertebrates IV
+Rights as supplied: Not supplied
+
+Dataset: Fieldjournal.org observation database
+Rights as supplied: Not supplied
+
+Dataset: Inventaire National du Patrimoine Naturel : Mammifères de France
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Subalyuk
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Vindija
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Pod hradem
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Icoana
+Rights as supplied: Not supplied
+
+Dataset: Wetland Inventory (NV)
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Moladova V
+Rights as supplied: Not supplied
+
+Dataset: Occurrence of mammalia relicts at site Brillenhöhle
+Rights as supplied: Not supplied
+
+Dataset: Museum of Comparative Zoology, Harvard University
+Rights as supplied: Copyright © 2012 The President and Fellows of Harvard College
+
+Dataset: Occurrence of mammalia relicts at site Overmere
+Rights as supplied: Not supplied
+
+Dataset: Vertebrate specimens
+Rights as supplied: Vertebrate data records from Michigan State University Museum may be used by individual researchers or research groups, but they may not be repackaged, resold, or redistributed in any form without the express written consent of a curatorial staff member of the Division of Vertebrate Natural History, Michigan State University Museum. If any of these records are used in an analysis or report, the provenance of the original data must be acknowledged, and any resulting publication or report sent to the Division of Vertebrate Natural History Library. The Michigan State University Museum and its staff are not responsible for damages, injury or loss due to the use of these data.

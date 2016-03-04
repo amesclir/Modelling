@@ -1,0 +1,35 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="65944520-c281-4fbb-81bd-1c0b5c903e6e" system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+    <alternateIdentifier system="GBIF_PORTAL">13024</alternateIdentifier>
+  <title>Cumbria Biodiversity Data Centre - Cumbria Biodiversity Data Centre. Vertebrate Observation Records, other than Birds. Pre-2010 for Cumbria </title>
+<creator>
+</creator>
+<metadataProvider>
+</metadataProvider>
+<language>en</language>
+<abstract>
+  <para>NBN Gateway Dataset GA000871</para>
+</abstract>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://data.nbn.org.uk/datasetInfo/taxonDataset.jsp?dsKey=GA000871</url>
+    </online>
+  </distribution>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <dateStamp>2011-05-12T01:05:18.000+02:00</dateStamp>
+        <citation>UK National Biodiversity Network: Cumbria Biodiversity Data Centre - Cumbria Biodiversity Data Centre. Vertebrate Observation Records, other than Birds. Pre-2010 for Cumbria </citation>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

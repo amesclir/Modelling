@@ -1,0 +1,35 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="1a7cd962-d4fb-4357-93f4-834bee0e26d7" system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+    <alternateIdentifier system="GBIF_PORTAL">11790</alternateIdentifier>
+  <title>Glasgow Museums BRC - Mammal records for Clyde Faunal Area, 1850 to 2007</title>
+<creator>
+</creator>
+<metadataProvider>
+</metadataProvider>
+<language>en</language>
+<abstract>
+  <para>NBN Gateway Dataset GA000462</para>
+</abstract>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://data.nbn.org.uk/datasetInfo/taxonDataset.jsp?dsKey=GA000462</url>
+    </online>
+  </distribution>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <dateStamp>2010-09-08T12:18:27.000+02:00</dateStamp>
+        <citation>UK National Biodiversity Network: Glasgow Museums BRC - Mammal records for Clyde Faunal Area, 1850 to 2007</citation>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

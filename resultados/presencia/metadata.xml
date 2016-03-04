@@ -1,0 +1,536 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="98788ff4-21ab-4961-8a29-c2bb4ddae380" system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+  <title>GBIF Occurrence Download 0000090-140404111544719</title>
+<creator>
+    <individualName>
+      <surName>GBIF Download Service</surName>
+    </individualName>
+</creator>
+<metadataProvider>
+    <individualName>
+      <surName>GBIF Download Service</surName>
+    </individualName>
+</metadataProvider>
+<associatedParty>
+    <individualName>
+        <givenName>Edwin</givenName>
+      <surName>Scholes III, Ph.D.</surName>
+    </individualName>
+    <organizationName>Macaulay Library</organizationName>
+    <positionName>Curator of Video</positionName>
+    <address>
+        <deliveryPoint>Cornell Lab of Ornithology - 159 Sapsucker Woods Road</deliveryPoint>
+        <city>Ithaca</city>
+        <administrativeArea>NY</administrativeArea>
+        <postalCode>14850</postalCode>
+        <country>UNITED_STATES</country>
+    </address>
+    <phone>+1 607-254-1115</phone>
+    <electronicMailAddress>edwin.scholes@cornell.edu</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Matthew</givenName>
+      <surName>Carling</surName>
+    </individualName>
+    <organizationName>University of Wyoming Museum of Vertebrates</organizationName>
+    <positionName>Curator</positionName>
+    <address>
+        <deliveryPoint>Berry Biodiversity Conservation Center</deliveryPoint>
+        <city>Laramie</city>
+        <administrativeArea>WY</administrativeArea>
+        <postalCode>82071</postalCode>
+        <country>UNITED_STATES</country>
+    </address>
+    <phone>(307) 766-6169</phone>
+    <electronicMailAddress>mcarling@uwyo.edu</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Krista</givenName>
+      <surName>Fahy</surName>
+    </individualName>
+    <organizationName>Santa Barbara Museum of Natural History</organizationName>
+    <positionName>Associate Curator</positionName>
+    <address>
+        <deliveryPoint>2559 Puesta del Sol</deliveryPoint>
+        <city>Santa Barbara</city>
+        <administrativeArea>CA</administrativeArea>
+        <postalCode>93105</postalCode>
+    </address>
+    <phone>+01 805-682-4711 (155)</phone>
+    <electronicMailAddress>kfahy@sbnature2.org</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>David</givenName>
+      <surName>Gerhard</surName>
+    </individualName>
+    <organizationName>New York State Museum</organizationName>
+    <positionName>Director, Technology Center</positionName>
+    <address>
+        <deliveryPoint>3140 Cultural Education Center</deliveryPoint>
+        <city>Albany</city>
+        <administrativeArea>NY</administrativeArea>
+        <postalCode>12230</postalCode>
+        <country>UNITED_STATES</country>
+    </address>
+    <phone>5184745818</phone>
+    <electronicMailAddress>dgerhard@mail.nysed.gov</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Joseph</givenName>
+      <surName>Cook</surName>
+    </individualName>
+    <organizationName>Museum of Southwestern Biology</organizationName>
+    <positionName>Curator of Mammals</positionName>
+    <address>
+        <deliveryPoint>University of New Mexico</deliveryPoint>
+        <city>Albuquerque</city>
+        <administrativeArea>NM</administrativeArea>
+        <postalCode>87131-0001</postalCode>
+        <country>UNITED_STATES</country>
+    </address>
+    <phone>(505) 277-1358</phone>
+    <electronicMailAddress>cookjose@unm.edu</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Stanley</givenName>
+      <surName>Blum</surName>
+    </individualName>
+    <organizationName>California Academy of Sciences</organizationName>
+    <positionName>Research Information Manager</positionName>
+    <address>
+        <deliveryPoint>55 Music Concourse Dr.</deliveryPoint>
+        <city>San Francisco</city>
+        <administrativeArea>CA</administrativeArea>
+        <postalCode>94118</postalCode>
+        <country>UNITED_STATES</country>
+    </address>
+    <phone>+1 (415) 379-5189</phone>
+    <electronicMailAddress>sblum@calacademy.org</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Jeroen</givenName>
+      <surName>Willemsen</surName>
+    </individualName>
+    <organizationName>Field Study Group of the Dutch Mammal Society</organizationName>
+    <positionName>Staff member of the Field Study Group</positionName>
+    <address>
+        <deliveryPoint>P.O. Box 6531</deliveryPoint>
+        <city>Nijmegen</city>
+        <postalCode>NL-6503 GA</postalCode>
+        <country>NETHERLANDS</country>
+    </address>
+    <electronicMailAddress>veldwerkgroep@zoogdiervereniging.nl</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Marta</givenName>
+      <surName>Domènech</surName>
+    </individualName>
+    <organizationName>Centre d&apos;estudis de la neu i de la muntanya d&apos;Andorra (CENMA), Institut d&apos;Estudis Andorrans</organizationName>
+    <address>
+        <deliveryPoint>Avda. Rocafort 21-23, Edifici el Molí 3er pis AD600 Sant Julià de Lòria, PRINCIPAT D&apos;ANDORRA</deliveryPoint>
+        <city>Sant Julià de Lòria</city>
+        <postalCode>AD600</postalCode>
+        <country>ANDORRA</country>
+    </address>
+    <phone>(+376)742630</phone>
+    <electronicMailAddress>cenma@iea.ad</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Ildiko</givenName>
+      <surName>Szabo</surName>
+    </individualName>
+    <organizationName>University of British Columbia Beaty Biodiversity Museum</organizationName>
+    <positionName>Assistant Curator</positionName>
+    <address>
+        <deliveryPoint>2212 Main Mall</deliveryPoint>
+        <city>Vancouver</city>
+        <administrativeArea>BC</administrativeArea>
+        <postalCode>V6T 1Z4</postalCode>
+        <country>CANADA</country>
+    </address>
+    <electronicMailAddress>ildiko@zoology.ubc.ca</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Sharon</givenName>
+      <surName>Grant</surName>
+    </individualName>
+    <organizationName>The Field Museum of Natural History</organizationName>
+    <positionName>Technology Liaison to Science</positionName>
+    <address>
+        <deliveryPoint>1400 S Lake Shore Drive</deliveryPoint>
+        <city>Chicago</city>
+        <administrativeArea>IL</administrativeArea>
+        <postalCode>60605</postalCode>
+        <country>UNITED_STATES</country>
+    </address>
+    <phone>3126657203</phone>
+    <electronicMailAddress>sgrant@fieldmuseum.org</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Reigo</givenName>
+      <surName>Roasto</surName>
+    </individualName>
+    <organizationName>Estonian Environment Information Center</organizationName>
+    <positionName>Specialist of Nature Conservation</positionName>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Link</givenName>
+      <surName>Olson</surName>
+    </individualName>
+    <organizationName>University of Alaska Museum</organizationName>
+    <positionName>Curator of Mammals</positionName>
+    <address>
+        <deliveryPoint>907 Yukon Drive</deliveryPoint>
+        <city>Fairbanks</city>
+        <administrativeArea>AK</administrativeArea>
+        <postalCode>99775-6960</postalCode>
+        <country>UNITED_STATES</country>
+    </address>
+    <phone>(907) 474-5998</phone>
+    <electronicMailAddress>leolson@alaska.edu</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <organizationName>OZCAM (Online Zoological Collections of Australian Museums) Provider</organizationName>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Jeroen</givenName>
+      <surName>Willemsen</surName>
+    </individualName>
+    <organizationName>Field Study Group of the Dutch Mammal Society</organizationName>
+    <positionName>Staff member of the Field Study Group</positionName>
+    <address>
+        <deliveryPoint>P.O. Box 6531</deliveryPoint>
+        <city>Nijmegen</city>
+        <postalCode>NL-6503 GA</postalCode>
+        <country>NETHERLANDS</country>
+    </address>
+    <electronicMailAddress>veldwerkgroep@zoogdiervereniging.nl</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Link</givenName>
+      <surName>Olson</surName>
+    </individualName>
+    <organizationName>University of Alaska Museum</organizationName>
+    <positionName>Curator of Mammals</positionName>
+    <address>
+        <deliveryPoint>907 Yukon Drive</deliveryPoint>
+        <city>Fairbanks</city>
+        <administrativeArea>AK</administrativeArea>
+        <postalCode>99775-6960</postalCode>
+        <country>UNITED_STATES</country>
+    </address>
+    <phone>(907) 474-5998</phone>
+    <electronicMailAddress>leolson@alaska.edu</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Stein Arild</givenName>
+      <surName>Hoem</surName>
+    </individualName>
+    <organizationName>Artsbanken</organizationName>
+    <positionName>Overingeniør</positionName>
+    <address>
+        <deliveryPoint>Elvegata 17</deliveryPoint>
+        <city>Trondheim</city>
+        <postalCode>7012</postalCode>
+        <country>NORWAY</country>
+    </address>
+    <phone>73 59 07 92</phone>
+    <electronicMailAddress>stein.hoem@artsdatabanken.no</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Gary</givenName>
+      <surName>Shugart</surName>
+    </individualName>
+    <organizationName>Slater Museum of Natural History, University of Puget Sound</organizationName>
+    <positionName>Collections Manager</positionName>
+    <address>
+        <deliveryPoint>1500 N. Warner</deliveryPoint>
+        <city>Tacoma</city>
+        <administrativeArea>WA</administrativeArea>
+        <postalCode>98416</postalCode>
+        <country>UNITED_STATES</country>
+    </address>
+    <phone>+01 253-879-3356</phone>
+    <electronicMailAddress>gshugart@pugetsound.edu</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Chris</givenName>
+      <surName>Conroy</surName>
+    </individualName>
+    <organizationName>Museum of Vertebrate Zoology, UC Berkeley</organizationName>
+    <positionName>Staff Curator of Mammals</positionName>
+    <address>
+        <deliveryPoint>3101 Valley Life Science Building</deliveryPoint>
+        <city>Berkeley</city>
+        <administrativeArea>CA</administrativeArea>
+        <postalCode>94720-3160</postalCode>
+        <country>UNITED_STATES</country>
+    </address>
+    <phone>(510) 643-7709</phone>
+    <electronicMailAddress>ondatra@berkeley.edu</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>John</givenName>
+      <surName>Demboski</surName>
+    </individualName>
+    <organizationName>Denver Museum of Nature &amp; Science</organizationName>
+    <positionName>Curator of Vertebrate Zoology</positionName>
+    <address>
+        <deliveryPoint>2001 Colorado Blvd.</deliveryPoint>
+        <city>Denver</city>
+        <administrativeArea>CO</administrativeArea>
+        <postalCode>80205-5798</postalCode>
+        <country>UNITED_STATES</country>
+    </address>
+    <phone>+01 303-373-6443</phone>
+    <electronicMailAddress>john.demboski@dmns.org</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Rick</givenName>
+      <surName>Feeney</surName>
+    </individualName>
+    <organizationName>Natural History Museum of Los Angeles County</organizationName>
+    <positionName>Fishes Collection Manager</positionName>
+    <address>
+        <deliveryPoint>900 Exposition Blvd.</deliveryPoint>
+        <city>Los Angeles</city>
+        <administrativeArea>CA</administrativeArea>
+        <postalCode>90007</postalCode>
+        <country>UNITED_STATES</country>
+    </address>
+    <phone>+01 213 763 3374</phone>
+    <electronicMailAddress>rfeeney@nhm.org</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Priscilla</givenName>
+      <surName>Tucker</surName>
+    </individualName>
+    <organizationName>University of Michigan Museum of Zoology</organizationName>
+    <positionName>Professor and Curator</positionName>
+    <address>
+        <deliveryPoint>1109 Geddes Ave, 3036/3085 Ruthven</deliveryPoint>
+        <city>Ann Arbor</city>
+        <administrativeArea>MI</administrativeArea>
+        <postalCode>48109</postalCode>
+        <country>UNITED_STATES</country>
+    </address>
+    <phone>+01 734-647-2207</phone>
+    <electronicMailAddress>ptuck@umich.edu</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Sven O.</givenName>
+      <surName>Kullander</surName>
+    </individualName>
+    <organizationName>Swedish Museum of Natural History</organizationName>
+    <address>
+        <city>Stockholm</city>
+        <country>SWEDEN</country>
+    </address>
+    <electronicMailAddress>sven.kullander@nrm.se</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Patrick</givenName>
+      <surName>Druckenmiller</surName>
+    </individualName>
+    <organizationName>University of Alaska Museum</organizationName>
+    <positionName>Curator of Earth Sciences</positionName>
+    <address>
+        <deliveryPoint>907 Yukon Drive</deliveryPoint>
+        <city>Fairbanks</city>
+        <administrativeArea>AK</administrativeArea>
+        <postalCode>99775-6960</postalCode>
+        <country>UNITED_STATES</country>
+    </address>
+    <phone>(907) 474-6954</phone>
+    <electronicMailAddress>psdruckenmiller@alaska.edu</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Bradley</givenName>
+      <surName>Millen</surName>
+    </individualName>
+    <organizationName>Royal Ontario Museum</organizationName>
+    <positionName>Associate Curator</positionName>
+    <address>
+        <deliveryPoint>100 Queen&apos;s Park</deliveryPoint>
+        <city>Toronto</city>
+        <administrativeArea>Ontario</administrativeArea>
+        <postalCode>M5S 2C6</postalCode>
+        <country>CANADA</country>
+    </address>
+    <phone>1-416-586-5768</phone>
+    <electronicMailAddress>bradm@rom.on.ca</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Stein Arild</givenName>
+      <surName>Hoem</surName>
+    </individualName>
+    <organizationName>Artsbanken</organizationName>
+    <positionName>Overingeniør</positionName>
+    <address>
+        <deliveryPoint>Elvegata 17</deliveryPoint>
+        <city>Trondheim</city>
+        <postalCode>7012</postalCode>
+    </address>
+    <phone>73 59 07 92</phone>
+    <electronicMailAddress>stein.hoem@artsdatabanken.no</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Thomas</givenName>
+      <surName>Orrell</surName>
+    </individualName>
+    <organizationName>National Museum of National History, Smithsonian Institution</organizationName>
+    <positionName>Branch Chief, NMNH Informatics</positionName>
+    <address>
+        <deliveryPoint>12th St. and Constitution Ave. NW, MRC 136</deliveryPoint>
+        <city>Washington</city>
+        <administrativeArea>DC</administrativeArea>
+        <postalCode>20013-7012</postalCode>
+        <country>UNITED_STATES</country>
+    </address>
+    <phone>202-633-2151</phone>
+    <electronicMailAddress>orrellt@si.edu</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+      <surName>F. Moutou (SFEPM)</surName>
+    </individualName>
+    <address>
+        <country>FRANCE</country>
+    </address>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Mickael</givenName>
+      <surName>Graf</surName>
+    </individualName>
+    <organizationName>GBIF-Sweden</organizationName>
+    <positionName>Database developer</positionName>
+    <address>
+        <city>Stockholm</city>
+        <country>SWEDEN</country>
+    </address>
+    <electronicMailAddress>mickael.graf@nrm.se</electronicMailAddress>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>MCZ</givenName>
+      <surName>Harvard University</surName>
+    </individualName>
+    <organizationName>Museum of Comparative Zoology</organizationName>
+    <address>
+        <deliveryPoint>26 Oxford Street</deliveryPoint>
+        <city>Cambridge</city>
+        <administrativeArea>MA</administrativeArea>
+        <postalCode>02138</postalCode>
+        <country>UNITED_STATES</country>
+    </address>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+      <surName>blasbenito</surName>
+    </individualName>
+    <role>AUTHOR</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+      <surName>GBIF Download Service</surName>
+    </individualName>
+    <role>ORIGINATOR</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+      <surName>GBIF Download Service</surName>
+    </individualName>
+    <role>METADATA_AUTHOR</role>
+</associatedParty>
+<pubDate>
+        2014-04-04
+</pubDate>
+<language>ENGLISH</language>
+<abstract>
+  <para>A dataset containing all occurrences available in GBIF matching the query: {&quot;type&quot;:&quot;and&quot;,&quot;predicates&quot;:[{&quot;type&quot;:&quot;equals&quot;,&quot;key&quot;:&quot;TAXON_KEY&quot;,&quot;value&quot;:&quot;2433433&quot;},{&quot;type&quot;:&quot;equals&quot;,&quot;key&quot;:&quot;SPATIAL_ISSUES&quot;,&quot;value&quot;:&quot;false&quot;},{&quot;type&quot;:&quot;equals&quot;,&quot;key&quot;:&quot;GEOREFERENCED&quot;,&quot;value&quot;:&quot;true&quot;}]}&lt;br/&gt;The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Istalloskö&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Kugelsteinhöhle II&lt;br/&gt;1 records from SBMNH Vertebrate Zoology&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Jägerhaus-Höhle&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Pestera Magura&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Hofstade&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Pavlov&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Ceremosnica&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Joint Mitnor Cave&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Oelknitz&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Kesslerloch&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Crayford&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Vraona Cave&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Goyet Cave 3&lt;br/&gt;1 records from Herdengelhoehle taxa and datings&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Sandalja II&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Poroslyuk&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Falkensteinhöhle&lt;br/&gt;1 records from Vertebrats d&apos;Andorra&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Dendermonde&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Veternica&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Tornewton Cave&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Vogelherd/Lonetal&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Bivak Cave&lt;br/&gt;1 records from Glasgow Museums BRC - Mammal records for Clyde Faunal Area, 1850 to 2007&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Risovaca&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Oberkassel bei Bonn&lt;br/&gt;1 records from Israel Nature and Parks Authority&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Roter Berg bei Saalfeld&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Barrington&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Fohlenhaus-Höhlen&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Kirkdale Cave&lt;br/&gt;1 records from Mammal Collection&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Nietoperzowa&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Villa Seckendorff&lt;br/&gt;1 records from Gunma Museum of Natural History, Mammal Specimen&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Kniegrotte&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Grotte du Bichon&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Pestera lui Climente I&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Predmosti&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Pestera Hotilor&lt;br/&gt;1 records from MfN - Fossil vertebrates IV&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Subalyuk&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Icoana&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Moladova V&lt;br/&gt;1 records from Occurrence of mammalia relicts at site Overmere&lt;br/&gt;2 records from Cumbria Biodiversity Data Centre - Cumbria Biodiversity Data Centre. Vertebrate Observation Records, other than Birds. Pre-2010 for Cumbria &lt;br/&gt;2 records from Occurrence of mammalia relicts at site Burgtonna&lt;br/&gt;2 records from Occurrence of mammalia relicts at site Zemst Bos van A&lt;br/&gt;2 records from Occurrence of mammalia relicts at site Jaskinia Niedwiedzia&lt;br/&gt;2 records from Occurrence of mammalia relicts at site Raj Cave&lt;br/&gt;2 records from Occurrence of mammalia relicts at site Erdhöhle&lt;br/&gt;2 records from South Australian Museum Australia provider for OZCAM&lt;br/&gt;2 records from Occurrence of mammalia relicts at site Pecurski Karnen&lt;br/&gt;2 records from RBINS collections&lt;br/&gt;2 records from Occurrence of mammalia relicts at site Kalman Lambrecht Cave&lt;br/&gt;2 records from Occurrence of mammalia relicts at site Fuchsenloch&lt;br/&gt;2 records from Occurrence of mammalia relicts at site Geißenklösterle&lt;br/&gt;2 records from Occurrence of mammalia relicts at site Schweizerbild&lt;br/&gt;2 records from CNMA/Colección Nacional de mamíferos&lt;br/&gt;2 records from Occurrence of mammalia relicts at site Gamssulzenhöhle&lt;br/&gt;2 records from Occurrence of mammalia relicts at site Sveduv stul&lt;br/&gt;2 records from Occurrence of mammalia relicts at site Krapina&lt;br/&gt;2 records from Occurrence of mammalia relicts at site Vindija&lt;br/&gt;2 records from Wetland Inventory (NV)&lt;br/&gt;3 records from Mammals Specimens&lt;br/&gt;3 records from Field Study Group of the Dutch Mammal Society (NL) - 2010 - Mammal Survey Patvinsuo National Park, northern Karelia, Finland&lt;br/&gt;3 records from UAM Mammal Observations (Arctos)&lt;br/&gt;3 records from Field Study Group of the Dutch Mammal Society (NL) - 2005 - Mammal Survey Pol&apos;ana Biosphere reserve, Slovakia&lt;br/&gt;3 records from Occurrence of mammalia relicts at site Bocksteinschmiede&lt;br/&gt;3 records from Occurrence of mammalia relicts at site Pestera Livadita&lt;br/&gt;3 records from NMNH occurrence DwC-A&lt;br/&gt;3 records from Occurrence of mammalia relicts at site Rislisberghöhle&lt;br/&gt;3 records from Occurrence of mammalia relicts at site Pod hradem&lt;br/&gt;4 records from NYSM Mammals&lt;br/&gt;4 records from Occurrence of mammalia relicts at site Teufelsbrücke&lt;br/&gt;4 records from Ibaraki Nature Museum, Mammals collection&lt;br/&gt;4 records from Museu de Ciències Naturals de Barcelona: MCNB-Cord&lt;br/&gt;5 records from Occurrence of mammalia relicts at site Pestera Cioarei&lt;br/&gt;5 records from NRM-Mammals&lt;br/&gt;5 records from Occurrence of mammalia relicts at site Pestera Cioarei&lt;br/&gt;6 records from National System of Protected Areas in Poland - Animals&lt;br/&gt;6 records from UAM Earth Sciences Collection (Arctos)&lt;br/&gt;7 records from Peabody Mammalogy DiGIR Service&lt;br/&gt;7 records from Occurrence of mammalia relicts at site Velika Pecina&lt;br/&gt;7 records from Occurrence of mammalia relicts at site Grotte Scladina&lt;br/&gt;7 records from UMMZ Mammals Collection&lt;br/&gt;7 records from Fieldjournal.org observation database&lt;br/&gt;8 records from UWYMV Mammal Collection (Arctos)&lt;br/&gt;8 records from Occurrence of mammalia relicts at site Pestera la Adam&lt;br/&gt;9 records from Cowan Tetrapod Collection - Mammals&lt;br/&gt;10 records from MSB Mammal Collection (Arctos)&lt;br/&gt;10 records from Occurrence of mammalia relicts at site Brillenhöhle&lt;br/&gt;11 records from LACM Vertebrate Collection&lt;br/&gt;11 records from Museum of Comparative Zoology, Harvard University&lt;br/&gt;14 records from Mammal Specimens&lt;br/&gt;14 records from DMNS Mammal Collection (Arctos)&lt;br/&gt;16 records from Mammalogy Collection - Royal Ontario Museum&lt;br/&gt;17 records from Paleobiology Database&lt;br/&gt;19 records from Mammals housed at MHNG, Geneva&lt;br/&gt;24 records from Vertebrate specimens&lt;br/&gt;30 records from Mammal collection, Natural History Museum, University of Oslo&lt;br/&gt;33 records from CAS Mammalogy (MAM)&lt;br/&gt;33 records from Norwegian Species Observation Service&lt;br/&gt;63 records from Field Museum of Natural History (Zoology) Mammal Collection&lt;br/&gt;64 records from PSM Vertebrates Collection&lt;br/&gt;67 records from iNaturalist research-grade observations&lt;br/&gt;68 records from Inventaire National du Patrimoine Naturel : Mammifères de France&lt;br/&gt;88 records from Macaulay Library Audio and Video Collection&lt;br/&gt;154 records from MVZ Mammal Collection (Arctos)&lt;br/&gt;195 records from Ministerio de Medio Ambiente, y Medio Rural y Marino. Dirección General de Medio Natural y Política Forestal. Inventario Nacional de Biodiversidad 2007, Mamíferos&lt;br/&gt;387 records from Estonian Nature Observations Database&lt;br/&gt;814 records from UAM Mammal Collection (Arctos)&lt;br/&gt;8868 records from Norwegian Biodiversity Information Centre - Other datasets&lt;br/&gt;</para>
+</abstract>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <citation identifier="0000090-140404111544719">GBIF Occurrence Download 0000090-140404111544719</citation>
+          <physical>
+            <objectName></objectName>
+            <characterEncoding>UTF-8</characterEncoding>
+            <dataFormat>
+              <externallyDefinedFormat>
+                <formatName>Darwin Core Archive</formatName>
+              </externallyDefinedFormat>
+            </dataFormat>
+            <distribution>
+              <online>
+                <url function="download">http://api.gbif.org/v0.9/occurrence/download/request/0000090-140404111544719.zip</url>
+              </online>
+            </distribution>
+          </physical>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,67 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="2a599d75-977e-44c8-8228-c7b198d3ed1a" system="http://gbif.org" scope="system"
+         xml:lang="fr">
+
+<dataset>
+    <alternateIdentifier system="GBIF_PORTAL">14281</alternateIdentifier>
+  <title>Inventaire National du Patrimoine Naturel : Mammifères de France</title>
+<creator>
+    <individualName>
+      <surName>F. Moutou (SFEPM)</surName>
+    </individualName>
+    <address>
+        <country>FRANCE</country>
+    </address>
+</creator>
+<metadataProvider>
+    <individualName>
+        <givenName>Frédéric</givenName>
+      <surName>Vest</surName>
+    </individualName>
+    <organizationName>Service du Patrimoine Naturel - Muséum national d&apos;Histoire Naturelle</organizationName>
+    <address>
+        <deliveryPoint>36 rue Geoffroy St Hilaire CP 41</deliveryPoint>
+        <city>Paris</city>
+        <postalCode>75231</postalCode>
+        <country>FRANCE</country>
+    </address>
+    <electronicMailAddress>inpn@mnh.fr</electronicMailAddress>
+</metadataProvider>
+<pubDate>
+        2012-06-27
+</pubDate>
+<language>FRENCH</language>
+<abstract>
+  <para>L&apos;objectif de cet inventaire est de rassembler un jeu exhaustif de données sur l&apos;ensemble des espèces présentes en France métropolitaine. Lors du 1er inventaire le réseau était coordonné
+par A. Fayard et M.C. Saint Girons
+(Société Française pour l&apos;Etude et la Protection des Mammifères) et, pour les Mammifères marins par R. Duguy. Actuellement l&apos;inventaire des Insectivores et des Rongeurs est coordonné par A. Butet et celui des Chiroptères par S. Aulagnier (SFEPM). Au 01/01/2002, la base contient environ 133 000 données. Celles-ci couvrent une période allant de 1900 à 1989 mais l&apos;essentiel concerne les années 1970-1983. Outre les données essentielles (espèce, lieu, date, observateur ou référence bibliographique ou référence de collection), sont notés facultativement pour chaque observation : l&apos;altitude, l&apos;exposition et la nature du contact.</para>
+</abstract>
+  <contact>
+    <individualName>
+        <givenName>Frédéric</givenName>
+      <surName>Vest</surName>
+    </individualName>
+    <organizationName>Service du Patrimoine Naturel - Muséum national d&apos;Histoire Naturelle</organizationName>
+    <address>
+        <deliveryPoint>36 rue Geoffroy St Hilaire CP 41</deliveryPoint>
+        <city>Paris</city>
+        <postalCode>75231</postalCode>
+        <country>FRANCE</country>
+    </address>
+    <electronicMailAddress>inpn@mnh.fr</electronicMailAddress>
+  </contact>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <dateStamp>2013-12-23T08:39:59.543+01:00</dateStamp>
+        <citation>SPN - Service du Patrimoine naturel, Muséum national d&apos;Histoire naturelle, Paris: Inventaire National du Patrimoine Naturel : Mammifères de France</citation>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

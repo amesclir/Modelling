@@ -1,0 +1,143 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="3ad882bb-cd21-4201-8b83-3684bfc6d830" system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+    <alternateIdentifier system="GBIF_PORTAL">14937</alternateIdentifier>
+  <title>Cowan Tetrapod Collection - Mammals</title>
+<creator>
+    <individualName>
+        <givenName>Ildiko</givenName>
+      <surName>Szabo</surName>
+    </individualName>
+    <organizationName>University of British Columbia Beaty Biodiversity Museum</organizationName>
+    <positionName>Assistant Curator</positionName>
+    <address>
+        <deliveryPoint>2212 Main Mall</deliveryPoint>
+        <city>Vancouver</city>
+        <administrativeArea>BC</administrativeArea>
+        <postalCode>V6T 1Z4</postalCode>
+        <country>CANADA</country>
+    </address>
+    <electronicMailAddress>ildiko@zoology.ubc.ca</electronicMailAddress>
+</creator>
+<metadataProvider>
+    <individualName>
+        <givenName>Ildiko</givenName>
+      <surName>Szabo</surName>
+    </individualName>
+    <organizationName>University of British Columbia Beaty Biodiversity Museum</organizationName>
+    <positionName>Assistant Curator</positionName>
+    <address>
+        <deliveryPoint>2212 Main Mall</deliveryPoint>
+        <city>Vancouver</city>
+        <administrativeArea>BC</administrativeArea>
+        <postalCode>V6T 1Z4</postalCode>
+        <country>CANADA</country>
+    </address>
+    <electronicMailAddress>ildiko@zoology.ubc.ca</electronicMailAddress>
+</metadataProvider>
+<associatedParty>
+    <individualName>
+        <givenName>John</givenName>
+      <surName>Wieczorek</surName>
+    </individualName>
+    <organizationName>Museum of Vertebrate Zoology at Berkeley</organizationName>
+    <positionName>Information Architect</positionName>
+    <electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>
+    <role>PROGRAMMER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>David</givenName>
+      <surName>Bloom</surName>
+    </individualName>
+    <organizationName>VertNet</organizationName>
+    <positionName>VertNet Coordinator</positionName>
+    <electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>
+    <role>PROGRAMMER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+        <givenName>Laura</givenName>
+      <surName>Russell</surName>
+    </individualName>
+    <organizationName>VertNet</organizationName>
+    <positionName>VertNet Programmer</positionName>
+    <electronicMailAddress>larussell@vertnet.org</electronicMailAddress>
+    <role>PROGRAMMER</role>
+</associatedParty>
+<pubDate>
+        2013-04-25
+</pubDate>
+<language>ENGLISH</language>
+<abstract>
+  <para>The Cowan Tetrapod Collection mammal holdings holdings of 540 species in 95 families is comprised over 20,000 specimens. Global in scope, the collection is especially strong in specimens collected from Western Canada and southern Africa. The collection was founded by Dr. Ian McTaggart-Cowan and his father-in-law Kenneth Racey. The mammal collection is housed at the University of British Columbia Beaty Biodiversity Museum which contains approximately 2 million natural history specimens.</para>
+</abstract>
+  <intellectualRights>
+    <para>University of British Columbia Beaty Biodiversity Museum data records may be used by individual researchers or research groups, but they may not be repackaged, resold, or redistributed in any form without the express written consent of the University of British Columbia Beaty Biodiversity Museum. If any of these records are used in an analysis or report, the provenance of the original data must be acknowledged and the University of British Columbia Beaty Biodiversity Museum notified. The University of British Columbia Beaty Biodiversity Museum and its staff are not responsible for damages, injury or loss due to the use of these data.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://www.beatymuseum.ubc.ca/collections/vertebrate</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Global in scope with a particular emphasis on Western Canada and Southern Africa.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-180</westBoundingCoordinate>
+          <eastBoundingCoordinate>180</eastBoundingCoordinate>
+          <northBoundingCoordinate>90</northBoundingCoordinate>
+          <southBoundingCoordinate>-90</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+      </temporalCoverage>
+        <taxonomicCoverage>
+            <generalTaxonomicCoverage>24 out of 29 living orders; 62% of living mammalian families are represented.</generalTaxonomicCoverage>
+            <taxonomicClassification>
+                <taxonRankName>CLASS</taxonRankName>
+              <taxonRankValue>Mammalia</taxonRankValue>
+                <commonName>Mammals</commonName>
+            </taxonomicClassification>
+        </taxonomicCoverage>
+  </coverage>
+  <contact>
+    <individualName>
+        <givenName>Ildiko</givenName>
+      <surName>Szabo</surName>
+    </individualName>
+    <organizationName>University of British Columbia Beaty Biodiversity Museum</organizationName>
+    <positionName>Assistant Curator</positionName>
+    <address>
+        <deliveryPoint>2212 Main Mall</deliveryPoint>
+        <city>Vancouver</city>
+        <administrativeArea>BC</administrativeArea>
+        <postalCode>V6T 1Z4</postalCode>
+        <country>CANADA</country>
+    </address>
+    <electronicMailAddress>ildiko@zoology.ubc.ca</electronicMailAddress>
+  </contact>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <dateStamp>2013-12-13T04:45:03.636+01:00</dateStamp>
+        <citation>Cowan Tetrapod Collection at the University of British Columbia Beaty Biodiversity Museum (UBCBBM)</citation>
+        <resourceLogoUrl>http://www.beatymuseum.ubc.ca/sites/default/files/collections/collections_icons/collvert2.jpg</resourceLogoUrl>
+        <collection>
+          <parentCollectionIdentifier>University of British Columbia Beaty Biodiversity Museum</parentCollectionIdentifier>
+          <collectionIdentifier>UBCBBM</collectionIdentifier>
+          <collectionName>Cowan Tetrapod Collection - Mammals</collectionName>
+        </collection>
+        <specimenPreservationMethod>DRIED</specimenPreservationMethod>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

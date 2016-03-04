@@ -1,0 +1,75 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="f7b77040-0c64-11dd-84d1-b8a03c50a862" system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+    <alternateIdentifier system="GBIF_PORTAL">1041</alternateIdentifier>
+  <title>NRM-Mammals</title>
+<creator>
+    <individualName>
+        <givenName>Sven O.</givenName>
+      <surName>Kullander</surName>
+    </individualName>
+    <organizationName>Swedish Museum of Natural History</organizationName>
+    <address>
+        <city>Stockholm</city>
+        <country>SWEDEN</country>
+    </address>
+    <electronicMailAddress>sven.kullander@nrm.se</electronicMailAddress>
+</creator>
+<metadataProvider>
+    <individualName>
+        <givenName>Mickael</givenName>
+      <surName>Graf</surName>
+    </individualName>
+    <electronicMailAddress>mickael.graf@nrm.se</electronicMailAddress>
+</metadataProvider>
+<pubDate>
+        2013-11-15
+</pubDate>
+<language>ENGLISH</language>
+<abstract>
+  <para>This database contains information on the so far registered specimens in the mammal collection of the Swedish Museum of Natural History.</para>
+</abstract>
+  <keywordSet>
+      <keyword>Occurrence</keyword>
+      <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+  </keywordSet>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Mammals from the whole world.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-180</westBoundingCoordinate>
+          <eastBoundingCoordinate>180</eastBoundingCoordinate>
+          <northBoundingCoordinate>90</northBoundingCoordinate>
+          <southBoundingCoordinate>-90</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+  </coverage>
+  <contact>
+    <individualName>
+        <givenName>Sven O.</givenName>
+      <surName>Kullander</surName>
+    </individualName>
+    <organizationName>Swedish Museum of Natural History</organizationName>
+    <address>
+        <city>Stockholm</city>
+        <country>SWEDEN</country>
+    </address>
+    <electronicMailAddress>sven.kullander@nrm.se</electronicMailAddress>
+  </contact>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <dateStamp>2014-01-08T04:09:56.264+01:00</dateStamp>
+        <citation>Swedish Museum of Natural History: NRM-Mammals</citation>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

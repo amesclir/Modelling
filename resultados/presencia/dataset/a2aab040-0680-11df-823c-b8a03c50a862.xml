@@ -1,0 +1,101 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="a2aab040-0680-11df-823c-b8a03c50a862" system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+    <alternateIdentifier system="GBIF_PORTAL">7961</alternateIdentifier>
+  <title>Wetland Inventory (NV)</title>
+<creator>
+    <individualName>
+        <givenName>Mickael</givenName>
+      <surName>Graf</surName>
+    </individualName>
+    <organizationName>GBIF-Sweden</organizationName>
+    <positionName>Database developer</positionName>
+    <address>
+        <city>Stockholm</city>
+        <country>SWEDEN</country>
+    </address>
+    <electronicMailAddress>mickael.graf@nrm.se</electronicMailAddress>
+</creator>
+<metadataProvider>
+    <individualName>
+        <givenName>Mickael</givenName>
+      <surName>Graf</surName>
+    </individualName>
+    <organizationName>GBIF-Sweden</organizationName>
+    <positionName>Database developer</positionName>
+    <address>
+        <city>Stockholm</city>
+        <country>SWEDEN</country>
+    </address>
+    <electronicMailAddress>mickael.graf@nrm.se</electronicMailAddress>
+</metadataProvider>
+<associatedParty>
+    <individualName>
+        <givenName>Mickael</givenName>
+      <surName>Graf</surName>
+    </individualName>
+    <organizationName>GBIF-Sweden</organizationName>
+    <positionName>Database developer</positionName>
+    <address>
+        <city>Stockholm</city>
+        <country>SWEDEN</country>
+    </address>
+    <electronicMailAddress>mickael.graf@nrm.se</electronicMailAddress>
+    <role>USER</role>
+</associatedParty>
+<pubDate>
+        2013-10-25
+</pubDate>
+<language>ENGLISH</language>
+<abstract>
+  <para>Wetland Inventory from the Swedish Environmental Protection Agency</para>
+</abstract>
+  <keywordSet>
+      <keyword>Occurrence</keyword>
+      <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+  </keywordSet>
+  <keywordSet>
+      <keyword>Observation</keyword>
+      <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+  </keywordSet>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Covers Sweden</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>10.61</westBoundingCoordinate>
+          <eastBoundingCoordinate>24.33</eastBoundingCoordinate>
+          <northBoundingCoordinate>69.17</northBoundingCoordinate>
+          <southBoundingCoordinate>55.24</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+  </coverage>
+  <contact>
+    <individualName>
+        <givenName>Mickael</givenName>
+      <surName>Graf</surName>
+    </individualName>
+    <organizationName>GBIF-Sweden</organizationName>
+    <positionName>Database developer</positionName>
+    <address>
+        <city>Stockholm</city>
+        <country>SWEDEN</country>
+    </address>
+    <electronicMailAddress>mickael.graf@nrm.se</electronicMailAddress>
+  </contact>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <dateStamp>2013-12-23T03:48:59.862+01:00</dateStamp>
+        <citation>GBIF-Sweden: Wetland Inventory (NV)</citation>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,35 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="d53f3b70-2fe9-11de-816f-b8a03c50a862" system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+    <alternateIdentifier system="GBIF_PORTAL">8248</alternateIdentifier>
+  <title>National System of Protected Areas in Poland - Animals</title>
+<creator>
+</creator>
+<metadataProvider>
+</metadataProvider>
+<language>en</language>
+<abstract>
+  <para>All protected areas, which are elements of the KSOCh (national system of protected areas): nature reserves, national parks, landscape park and areas of protected landscape, have been verified in 2002. The list of protected areas is based on the reports on protected areas in natural units of space delineated on the basis of geomorphic characteristics.</para>
+</abstract>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://tapir.gbif.pl/tapir/tapir.php/pan-iop-ksoch-zwierzeta</url>
+    </online>
+  </distribution>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <dateStamp>2013-05-08T04:45:44.000+02:00</dateStamp>
+        <citation>Institute of Nature Conservation, Polish Academy of Sciences: National System of Protected Areas in Poland - Animals</citation>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

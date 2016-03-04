@@ -1,0 +1,97 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="492d63a8-4978-4bc7-acd8-7d0e3ac0e744" system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+    <alternateIdentifier system="GBIF_PORTAL">14381</alternateIdentifier>
+  <title>Norwegian Biodiversity Information Centre - Other datasets</title>
+<creator>
+    <individualName>
+        <givenName>Stein Arild</givenName>
+      <surName>Hoem</surName>
+    </individualName>
+    <organizationName>Artsbanken</organizationName>
+    <positionName>Overingeniør</positionName>
+    <address>
+        <deliveryPoint>Elvegata 17</deliveryPoint>
+        <city>Trondheim</city>
+        <postalCode>7012</postalCode>
+    </address>
+    <phone>73 59 07 92</phone>
+    <electronicMailAddress>stein.hoem@artsdatabanken.no</electronicMailAddress>
+</creator>
+<metadataProvider>
+    <individualName>
+        <givenName>Stein Arild</givenName>
+      <surName>Hoem</surName>
+    </individualName>
+    <organizationName>Artsbanken</organizationName>
+    <positionName>Overingeniør</positionName>
+    <address>
+        <deliveryPoint>Elvegata 17</deliveryPoint>
+        <city>Trondheim</city>
+        <postalCode>7012</postalCode>
+    </address>
+    <phone>73 59 07 92</phone>
+    <electronicMailAddress>stein.hoem@artsdatabanken.no</electronicMailAddress>
+</metadataProvider>
+<associatedParty>
+    <individualName>
+        <givenName>marius</givenName>
+      <surName>nesser</surName>
+    </individualName>
+    <electronicMailAddress>nesser@gmail.com</electronicMailAddress>
+    <role>USER</role>
+</associatedParty>
+<pubDate>
+        2013-10-28
+</pubDate>
+<language>ENGLISH</language>
+<abstract>
+  <para>nbic_other</para>
+</abstract>
+  <keywordSet>
+      <keyword>Occurrence</keyword>
+      <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+  </keywordSet>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Norway</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>0</westBoundingCoordinate>
+          <eastBoundingCoordinate>36</eastBoundingCoordinate>
+          <northBoundingCoordinate>72</northBoundingCoordinate>
+          <southBoundingCoordinate>56</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+  </coverage>
+  <contact>
+    <individualName>
+        <givenName>Stein Arild</givenName>
+      <surName>Hoem</surName>
+    </individualName>
+    <organizationName>Artsbanken</organizationName>
+    <positionName>Overingeniør</positionName>
+    <address>
+        <deliveryPoint>Elvegata 17</deliveryPoint>
+        <city>Trondheim</city>
+        <postalCode>7012</postalCode>
+    </address>
+    <phone>73 59 07 92</phone>
+    <electronicMailAddress>stein.hoem@artsdatabanken.no</electronicMailAddress>
+  </contact>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <dateStamp>2013-12-23T04:29:32.028+01:00</dateStamp>
+        <citation>Natural History Museum, University of Oslo: Norwegian Biodiversity Information Centre - Other datasets</citation>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

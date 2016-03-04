@@ -1,0 +1,145 @@
+Please cite this data as follows, and pay attention to the rights documented in the rights.txt: 
+Please respect the rights declared for each dataset in the download: 
+Jánossy, D (2001): Occurrence of mammalia relicts at site Istalloskö. doi:10.1594/PANGAEA.63888
+Institute of Nature Conservation, Polish Academy of Sciences: National System of Protected Areas in Poland - Animals
+Varied sources. Individual references may be obtained from website (paleodb.org)
+iNaturalist.org: iNaturalist research-grade observations
+UK National Biodiversity Network: Cumbria Biodiversity Data Centre - Cumbria Biodiversity Data Centre. Vertebrate Observation Records, other than Birds. Pre-2010 for Cumbria 
+Cite the source of recordings as Macaulay Library (ML).<br><br>
+
+When possible, include the following data in your citation:<br><br>
+
+ML Media-collection Catalog-number<br>
+Common Name - Scientific name<br>
+Recordist<br>
+Location<br>
+Date<br>
+Macaulay Library/Cornell<br><br>
+
+For example:<br><br>
+
+ML Audio 2081<br>
+Green Heron - Butorides virescens<br>
+Sutherland, Charles A<br>
+United States, New York, Tompkins, 3 km NE of Ithaca, Sapsucker Woods Pond<br>
+29 July 1962<br>
+Macaulay Library, www.macaulaylibrary.org<br>
+Cornell Lab of Ornithology<br><br>
+
+To cite an online recording, use the URL from the specimen record page. This URL is a stable globally unique identifier, or GUID, and also approximates the format for a life science identifier(LSID): <br><br>
+
+institution_collection_catalog# <br>
+(e.g. macaulaylibrary.org/video/12345).<br><br>
+
+The long url form should not be used. <br>
+(e.g. macaulaylibrary.org/video/12345/cardinal-new-york-2011).<br><br>
+
+For more information: http://macaulaylibrary.org/cite-recordings
+Fladerer, FA (2001): Occurrence of mammalia relicts at site Kugelsteinhöhle II. doi:10.1594/PANGAEA.64407
+University of Wyoming Museum of Vertebrates
+SBMNH Vertebrate Collection
+Boessneck, J (2001): Occurrence of mammalia relicts at site Jägerhaus-Höhle. doi:10.1594/PANGAEA.63901
+Maul, L (2001): Occurrence of mammalia relicts at site Burgtonna. doi:10.1594/PANGAEA.64597
+Natural History Museum, University of Oslo: Mammal collection, Natural History Museum, University of Oslo
+Terzea, E (2001): Occurrence of mammalia relicts at site Pestera Magura. doi:10.1594/PANGAEA.64601
+Germonpre, M (2001): Occurrence of mammalia relicts at site Hofstade. doi:10.1594/PANGAEA.64408
+Musil, R (2001): Occurrence of mammalia relicts at site Pavlov. doi:10.1594/PANGAEA.64420
+New York State Museum
+Germonpre, M; Leclerq, M (2001): Occurrence of mammalia relicts at site Zemst Bos van A. doi:10.1594/PANGAEA.64412
+Dimitrijevic, Vesna (2001): Occurrence of mammalia relicts at site Ceremosnica. doi:10.1594/PANGAEA.64564
+Jahna, Alfreda (2001): Occurrence of mammalia relicts at site Jaskinia Niedwiedzia. doi:10.1594/PANGAEA.64592
+Division of Mammals, Museum of Southwestern Biology (MSB)
+Stuart, A J (2001): Occurrence of mammalia relicts at site Joint Mitnor Cave. doi:10.1594/PANGAEA.64390
+Musil, R (2001): Occurrence of mammalia relicts at site Oelknitz. doi:10.1594/PANGAEA.64572
+SNOMNH Mammal Collection
+Schibler, J; Stampfli, HR (2001): Occurrence of mammalia relicts at site Kesslerloch. doi:10.1594/PANGAEA.63597
+Stuart, A J (2001): Occurrence of mammalia relicts at site Crayford. doi:10.1594/PANGAEA.64393
+California Academy of Sciences: CAS Mammalogy (MAM)
+Kowalski, K (2001): Occurrence of mammalia relicts at site Raj Cave. doi:10.1594/PANGAEA.63584
+Bach, H (2001): Occurrence of mammalia relicts at site Erdhöhle. doi:10.1594/PANGAEA.64586
+Rabeder, G; Symenoidis, N (2001): Occurrence of mammalia relicts at site Vraona Cave. doi:10.1594/PANGAEA.64581
+Dewez, M (2001): Occurrence of mammalia relicts at site Goyet Cave 3. doi:10.1594/PANGAEA.64413
+Frank, C; Rabeder, G (2001): Herdengelhoehle taxa and datings. doi:10.1594/PANGAEA.64584
+Palomi, J. L, Gisbert, J. y Blanco J. C. (eds.) 2007. Atlas y Libro Rojo de los Mamíferos Terrestres de España. Dirección General para la Biodiversidad. SECEM-SECEMU. Madrid, 588 pp.
+Yale Peabody Museum, (c) 2009. Specimen data records available through distributed digital resources.
+Malez, M (2001): Occurrence of mammalia relicts at site Sandalja II. doi:10.1594/PANGAEA.63878
+Jánossy, D (2001): Occurrence of mammalia relicts at site Poroslyuk. doi:10.1594/PANGAEA.63884
+Field Study Group of the Dutch Mammal Society: Field Study Group of the Dutch Mammal Society (NL) - 2010 - Mammal Survey Patvinsuo National Park, northern Karelia, Finland
+Boessneck, J (2001): Occurrence of mammalia relicts at site Falkensteinhöhle. doi:10.1594/PANGAEA.64213
+Musil, R (2001): Occurrence of mammalia relicts at site Teufelsbrücke. doi:10.1594/PANGAEA.64578
+Centre d'estudis de la neu i de la muntanya d'Andorra (CENMA), Institut d'Estudis Andorrans: Vertebrats d'Andorra
+Cowan Tetrapod Collection at the University of British Columbia Beaty Biodiversity Museum (UBCBBM)
+Field Museum: Field Museum of Natural History (Zoology) Mammal Collection
+Ruedi M. Mammals housed at MHNG, Geneva. Muséum d'histoire naturelle de la Ville de Genève
+Estonian Nature Observations Database, Estonian Nature Observations Database
+Malez, M (2001): Occurrence of mammalia relicts at site Velika Pecina. doi:10.1594/PANGAEA.63875
+University of Alaska (UAM), Fairbanks
+Germonpre, M (2001): Occurrence of mammalia relicts at site Dendermonde. doi:10.1594/PANGAEA.64409
+South Australian Museum: South Australian Museum Australia provider for OZCAM
+Malez, M (2001): Occurrence of mammalia relicts at site Veternica. doi:10.1594/PANGAEA.63821
+Malez, M; Salkovic, S (2001): Occurrence of mammalia relicts at site Pecurski Karnen. doi:10.1594/PANGAEA.64567
+Stuart, A J (2001): Occurrence of mammalia relicts at site Tornewton Cave. doi:10.1594/PANGAEA.63590
+Hahn, Jürgen (2001): Occurrence of mammalia relicts at site Vogelherd/Lonetal. doi:10.1594/PANGAEA.63536
+Royal Belgian Institute of Natural Sciences: RBINS collections
+Field Study Group of the Dutch Mammal Society: Field Study Group of the Dutch Mammal Society (NL) - 2005 - Mammal Survey Pol'ana Biosphere reserve, Slovakia
+Jánossy, D (2001): Occurrence of mammalia relicts at site Kalman Lambrecht Cave. doi:10.1594/PANGAEA.63883
+Jánossy, D (2001): Occurrence of mammalia relicts at site Bivak Cave. doi:10.1594/PANGAEA.63889
+UK National Biodiversity Network: Glasgow Museums BRC - Mammal records for Clyde Faunal Area, 1850 to 2007
+Dimitrijevic, Vesna (2001): Occurrence of mammalia relicts at site Risovaca. doi:10.1594/PANGAEA.64570
+Bonjean, D (2001): Occurrence of mammalia relicts at site Grotte Scladina. doi:10.1594/PANGAEA.64600
+Mammal Collection, University of Alaska Museum (UAM)
+Wetzel, R; Bosinski, Gerhard (2001): Occurrence of mammalia relicts at site Bocksteinschmiede. doi:10.1594/PANGAEA.63572
+The Norwegian Biodiversity Information Centre (NBIC): Norwegian Species Observation Service
+PSM Collection
+Nobis, Günter (2001): Occurrence of mammalia relicts at site Oberkassel bei Bonn. doi:10.1594/PANGAEA.64577
+Israel Nature & Parks Authority (Ed.) 1970 - (continuously updated): Vertebrate and vascular plant observations of the Israel Nature and Parks Authority.
+Stehlin, HG; Graziosi, P (2001): Occurrence of mammalia relicts at site Roter Berg bei Saalfeld. doi:10.1594/PANGAEA.63894
+National Museum of Nature and Science, Japan: Ibaraki Nature Museum, Mammals collection
+MCNB Chordate GBIF online database (date when consulted)
+Stuart, A J (2001): Occurrence of mammalia relicts at site Barrington. doi:10.1594/PANGAEA.63939
+Heller, F (2001): Occurrence of mammalia relicts at site Fuchsenloch. doi:10.1594/PANGAEA.64676
+Dumitrescu, M (2001): Occurrence of mammalia relicts at site Pestera la Adam. doi:10.1594/PANGAEA.64613
+University of Washington Burke Museum. Mammal Collection. Seattle, Washington.
+Terzea, E (2001): Occurrence of mammalia relicts at site Pestera Cioarei. doi:10.1594/PANGAEA.64583
+Storch, Gerhard (2001): Occurrence of mammalia relicts at site Fohlenhaus-Höhlen. doi:10.1594/PANGAEA.63897
+Münzel, S (2001): Occurrence of mammalia relicts at site Geißenklösterle. doi:10.1594/PANGAEA.63801
+Koken, E (2001): Occurrence of mammalia relicts at site Schweizerbild. doi:10.1594/PANGAEA.64672
+CNMA, Portal UNIBIO, Instituto de Biología, Universidad Nacional Autónoma de México, http://www.unibio.unam.mx consultada el dd/mm/yy.
+Museum of Vertebrate Zoology (MVZ), University of California, Berkeley
+Denver Museum of Nature & Science Mammal Collection
+Stuart, A J (2001): Occurrence of mammalia relicts at site Kirkdale Cave. doi:10.1594/PANGAEA.64389
+Terzea, E (2001): Occurrence of mammalia relicts at site Pestera Livadita. doi:10.1594/PANGAEA.64611
+Natural History Museum of Los Angeles County: LACM Vertebrate Collection
+UMMZ Mammal Collection
+Swedish Museum of Natural History: NRM-Mammals
+Terzea, E (2001): Occurrence of mammalia relicts at site Pestera Cioarei. doi:10.1594/PANGAEA.62256
+Mammal Research Institute, Polish Academy of Sciences: Mammal Collection
+University of Alaska Museum, Earth Sciences Collection
+von Königswald, Wighart (2001): Occurrence of mammalia relicts at site Nietoperzowa. doi:10.1594/PANGAEA.64249
+Royal Ontario Museum: Mammalogy Collection - Royal Ontario Museum
+Forsten, A; Ziegler, R (2001): Occurrence of mammalia relicts at site Villa Seckendorff. doi:10.1594/PANGAEA.63622
+National Museum of Nature and Science, Japan: Gunma Museum of Natural History, Mammal Specimen
+Rabeder, G (2001): Occurrence of mammalia relicts at site Gamssulzenhöhle. doi:10.1594/PANGAEA.64585
+Natural History Museum, University of Oslo: Norwegian Biodiversity Information Centre - Other datasets
+National Museum of Natural History, Smithsonian Institution: NMNH occurrence DwC-A
+Musil, R (2001): Occurrence of mammalia relicts at site Sveduv stul. doi:10.1594/PANGAEA.63634
+Feustel, R (2001): Occurrence of mammalia relicts at site Kniegrotte. doi:10.1594/PANGAEA.64557
+Morel, Pierre (2001): Occurrence of mammalia relicts at site Grotte du Bichon. doi:10.1594/PANGAEA.64561
+Terzea, E (2001): Occurrence of mammalia relicts at site Pestera lui Climente I. doi:10.1594/PANGAEA.64603
+Malez, M; Malez, V (2001): Occurrence of mammalia relicts at site Krapina. doi:10.1594/PANGAEA.63626
+Musil, R (2001): Occurrence of mammalia relicts at site Predmosti. doi:10.1594/PANGAEA.64573
+Terzea, E (2001): Occurrence of mammalia relicts at site Pestera Hotilor. doi:10.1594/PANGAEA.64614
+von Königswald, Wighart (2001): Occurrence of mammalia relicts at site Rislisberghöhle. doi:10.1594/PANGAEA.63601
+Museum für Naturkunde Berlin: MfN - Fossil vertebrates IV
+Finnish Museum of Natural History: Fieldjournal.org observation database
+SPN - Service du Patrimoine naturel, Muséum national d'Histoire naturelle, Paris: Inventaire National du Patrimoine Naturel : Mammifères de France
+Jánossy, D (2001): Occurrence of mammalia relicts at site Subalyuk. doi:10.1594/PANGAEA.63885
+Malez, M (2001): Occurrence of mammalia relicts at site Vindija. doi:10.1594/PANGAEA.63877
+Musil, R (2001): Occurrence of mammalia relicts at site Pod hradem. doi:10.1594/PANGAEA.63635
+Bolomey, A (2001): Occurrence of mammalia relicts at site Icoana. doi:10.1594/PANGAEA.64668
+GBIF-Sweden: Wetland Inventory (NV)
+Alekseeva, L I (2001): Occurrence of mammalia relicts at site Moladova V. doi:10.1594/PANGAEA.64222
+Riek, G (2001): Occurrence of mammalia relicts at site Brillenhöhle. doi:10.1594/PANGAEA.63621
+Museum of Comparative Zoology, Harvard University: Museum of Comparative Zoology, Harvard University
+Germonpre, M (2001): Occurrence of mammalia relicts at site Overmere. doi:10.1594/PANGAEA.64410
+MSU Vertebrate Collection
